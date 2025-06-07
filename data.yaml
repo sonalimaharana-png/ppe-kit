@@ -1,0 +1,10 @@
+path: C:/Users/Sonali Maharana/Desktop/dataset/data.yaml 
+train: images/train
+val: images/val
+
+names:
+  0: Coverall
+  1: Gloves
+  2: Goggles
+  3: Mask
+  4: Face_Shield
